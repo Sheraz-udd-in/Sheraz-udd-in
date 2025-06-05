@@ -1,5 +1,6 @@
 # 💫 About Me:
-👋 Hi, I'm Sheraz Uddin Mirza<br>I'm a Computer Science undergraduate passionate about Data Science, Machine Learning, and Full-Stack Development. I enjoy solving real-world problems using Python, SQL, and visualization tools like Tableau. I’ve built predictive models with 90%+ accuracy, designed interactive dashboards, and developed responsive web apps. I'm continuously learning and sharing my projects here—feel free to explore!<br><br>
+👋 Hi, I'm Sheraz Uddin Mirza<br>B.Tech CSE student passionate about data science, machine learning, and full-stack development. I build predictive models, dashboards, and responsive web apps using Python, SQL, Tableau, and JavaScript.
+
 
 
 ## 🌐 Socials:
