@@ -63,7 +63,7 @@
 ## 📊 GitHub Stats:
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Sheraz-udd-in&theme=black-ice&hide_border=false&stroke=0000&background=0D1117" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=Sheraz-udd-in&theme=tokyonight&hide_border=false" />
 </p>
 
 <p align="center">
