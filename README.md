@@ -5,11 +5,16 @@
 
 🌱 **Currently Learning:**  
 - 📌 **Python** for scripting, data analysis, and machine learning  
-- 📌 **Data Structures & Algorithms (DSA)** to improve problem-solving and coding efficiency  
+- 📌 **Data Structures & Algorithms (DSA)** to improve problem-solving and coding efficiency
+
 
 📬 **Connect with me:**  
 Feel free to reach out via email at **[sherazuddin76@gmail.com](mailto:sherazuddin76@gmail.com)**  
 I'm always open to collaborations, opportunities, or just a friendly tech chat!
+
+  <p align="center">
+  <img src="https://komarev.com/ghpvc/?username=sheraz-udd-in&label=Profile%20views&color=6b5b95&style=flat-square" alt="sheraz-udd-in" />
+</p> 
 
 ---
 
